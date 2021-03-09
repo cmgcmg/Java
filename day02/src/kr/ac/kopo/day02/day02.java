@@ -9,7 +9,7 @@ public class day02 {
 		ch = 65;
 		
 		ch = '\u0041';
-		
+		  
 		//ch = '\uAC00';
 			
 		System.out.println((int)ch);
